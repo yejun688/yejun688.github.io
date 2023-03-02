@@ -9,9 +9,50 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Artificial Intelligence PhD student in the IRIS Lab at China University of Mining And Technology. advised by Prof [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng_cn/) and Prof [ShiXiong Xia](https://dblp.org/pid/04/4630). Now I working with [Guangming Wang](https://guangmingw.github.io/). I am interested in Computer Vision and Machine Learning, especially in 3D Vision(Generation) and Neural Rendering,etc.
+I am a first-year Artificial Intelligence PhD student in the IRIS Lab at China University of Mining and Technology.advised by Prof [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng_cn/) and Prof [ShiXiong Xia](https://dblp.org/pid/04/4630). Now I working with [Guangming Wang](https://guangmingw.github.io/). I am interested in Computer Vision and Machine Learning, especially in 3D Vision(Generation) and Neural Rendering,etc.
 
 Prior to CUMT. I was fortunate to have worked with Prof [YunZhang](https://ieeexplore.ieee.org/author/37405812400). Previously obtained Ms degree Computer Science at The Kunming University of Science and Tecnnology . Before that. I received my B.Eng in Computer Science in 2019 from Hefei University. worked with AssociateProfessor [chuanwen Lin](https://ieeexplore.ieee.org/author/37088412197). 
+
+
+Education
+======
+* Ph.D. in Artificial Intelligence, CUMT, 2022-
+* M.S. in Computer Science and Tecnnology(espically computer system), KUST, 2022
+* B.S. in Computer Science and Tecnnology, Hefei University, 2019
+
+
+
+Work experience
+======
+* Research Intern, Institute of Advance Technology ,University of Science and Technology of china, 2019
+
+
+
+[Resume](files/cv4.pdf)
+
+
+
+**NEWS!** Our work "Controllable Dialogue Simulation with In-Context Learning" has been accepted to Findings of EMNLP 2022. Check out the [paper](https://arxiv.org/pdf/2210.04185.pdf) and [code](https://github.com/Leezekun/dialogic)!
+{: .notice--info} 
+
+Publications
+======
+
+[Three-dimensional human pose estimation based on spatio-temporal multi-feature fusion network](https://ui.adsabs.harvard.edu/abs/2022SPIE12301E..22Y/abstract) \
+Yun Zhang, Fengping  Wang, **Jun Ye** \
+International Conference on Mechatronics and Intelligent Robotics (**ICMIR**), 2022 (<span style="color:red">Oral, Best Paper Candidate</span>)
+
+
+[PrR-CNN:Projectively rectified RCNN Detection via Corner Localization on Polar Region Segmention](Minor revision)\
+Yun Zhang, **Jun Ye**  \
+International Journal on Document Analysis and Recognition (**IJDAR**)
+
+
+Contact
+======
+Email: junye6008 AT gmail DOT com \
+
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
