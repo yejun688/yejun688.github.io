@@ -83,10 +83,10 @@ author:
   name             : "Jun Ye"
   avatar           : "profile2.png"
   bio              : "PhD @CUMT,interested in Computer Vision and Machine Learning"
-  location         : "CHINA"
+  location         : "Shanghai China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=ASF3O_kAAAAJ&hl=zh-CN&oi=ao"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "https://scholar.google.com/citations?user=ASF3O_kAAAAJ&hl=zh-CN&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "junye688.github.io"
+  github           : "yejun688"
   google_plus      :
   keybase          :
   instagram        :
