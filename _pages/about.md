@@ -32,21 +32,21 @@ Work experience
 
 
 
-**NEWS!** Our work "Controllable Dialogue Simulation with In-Context Learning" has been accepted to Findings of EMNLP 2022. Check out the [paper](https://arxiv.org/pdf/2210.04185.pdf) and [code](https://github.com/Leezekun/dialogic)!
-{: .notice--info} 
+<!-- **NEWS!** Our work "Controllable Dialogue Simulation with In-Context Learning" has been accepted to Findings of EMNLP 2022. Check out the [paper](https://arxiv.org/pdf/2210.04185.pdf) and [code](https://github.com/Leezekun/dialogic)!
+{: .notice--info}  -->
 
 Publications
 ======
 
 [Three-dimensional human pose estimation based on spatio-temporal multi-feature fusion network](https://ui.adsabs.harvard.edu/abs/2022SPIE12301E..22Y/abstract) \
-Yun Zhang, Fengping  Wang, **Jun Ye** \
+**Jun Ye** Yun Zhang, Fengping  Wang,  \
 International Conference on Mechatronics and Intelligent Robotics (**ICMIR**), 2022 
-(<span style="color:red">Oral, Best Paper Candidate</span>)
+<!-- (<span style="color:red">Oral, Best Paper Candidate</span>) -->
 
 
-[PrR-CNN:Projectively rectified RCNN Detection via Corner Localization on Polar Region Segmention](Minor revision)\
-Yun Zhang, **Jun Ye**  \
-International Journal on Document Analysis and Recognition (**IJDAR**)
+[PrR-CNN:Projectively rectified RCNN Detection via Corner Localization on Polar Region Segmention]()\
+ **Jun Ye** ,Yun Zhang \
+International Journal on Document Analysis and Recognition (**IJDAR**)(<span style="color:red">Minor revision</span>)
 
 
 Contact
