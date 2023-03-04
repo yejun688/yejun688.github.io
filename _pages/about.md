@@ -9,14 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Artificial Intelligence PhD student in the IRIS Lab at China University of Mining and Technology.advised by Prof [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng_cn/) and Prof [ShiXiong Xia](https://dblp.org/pid/04/4630). Now I working with [Guangming Wang](https://guangmingw.github.io/). I am interested in Computer Vision and Machine Learning, especially in 3D Vision(Generation) and Neural Rendering,etc.
+Hi,I am a first-year Artificial Intelligence PhD student in the IRIS Lab at China University of Mining and Technology.advised by Prof [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng_cn/) and Prof [ShiXiong Xia](https://dblp.org/pid/04/4630). Now I working with [Guangming Wang](https://guangmingw.github.io/). I am interested in Computer Vision and Machine Learning, especially in 3D Vision(Generation) and Neural Rendering,etc.
 
 Prior to CUMT. I was fortunate to have worked with Prof [YunZhang](https://ieeexplore.ieee.org/author/37405812400). Previously obtained Ms degree Computer Science at The Kunming University of Science and Tecnnology . Before that. I received my B.Eng in Computer Science in 2019 from Hefei University. worked with AssociateProfessor [chuanwen Lin](https://ieeexplore.ieee.org/author/37088412197). 
 
 
 Education
 ======
-* Ph.D. in Artificial Intelligence, CUMT, 2022-
+* Ph.D. in Artificial Intelligence, CUMT, 2022-2026(expect)
 * M.S. in Computer Science and Tecnnology(espically computer system), KUST, 2022
 * B.S. in Computer Science and Tecnnology, Hefei University, 2019
 
