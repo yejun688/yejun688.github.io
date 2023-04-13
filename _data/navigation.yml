@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
 
   - title: "Research Statement"
-    url: /files/research_statement.pdf/
+    url: /files/research_statement.pdf
 
   - title: "CV"
     url: /files/cv4.pdf/
