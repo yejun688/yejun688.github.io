@@ -52,6 +52,10 @@ International Conference on Mechatronics and Intelligent Robotics (**ICMIR**), 2
  **Jun Ye** ,Yun Zhang \
 International Journal on Document Analysis and Recognition (**IJDAR**)(<span style="color:red">Minor revision</span>)
 
+Conference reviewer
+======
+Neural Information Processing Systems (**NeurIPS**), 2024 \
+International Conference on computer vision (**ICCV**), 2023 \
 
 Contact
 ======
