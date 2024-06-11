@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jun Ye"
   avatar           : "profile2.png"
-  bio              : "PhD @CUMT,interested in Computer Vision and Machine Learning"
+  bio              : "PhD,interested in Computer Vision and Machine Learning"
   location         : "Shanghai China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yejun688"
+  github           : "yejun"
   google_plus      :
   keybase          :
   instagram        : "https://www.instagram.com/kustgreece/"
