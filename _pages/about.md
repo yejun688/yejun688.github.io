@@ -1,4 +1,5 @@
----
+<h1> 2024 </h1>
+<!-- ---
 permalink: /
 # title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 title: "About me"
@@ -10,36 +11,36 @@ redirect_from:
 ---
 
 Hi,I am a second-year Artificial Intelligence PhD student in the IRIS Lab&IRMV LAB at CUMT & SJTU respectively.  co-advised by Prof [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng_cn/) and Prof [ShiXiong Xia](https://dblp.org/pid/04/4630). Now I working with [Guangming Wang](https://guangmingw.github.io/). 
-
+<!-- 
 <!-- I am interested in Computer Vision and Machine Learning, especially in 3D Vision(Generation) and Neural Rendering,etc. -->
-My research lies in the intersection of computer vision,computer graphics and robotics,My 
-Goal is to use machine learning to enable intelligence with minimal human supervision.I study how to design 3D Learning systems which leverage genmetry,appearance,and any others.I am also broadly interested in  AVS&AVP System Application and Neural Rendering.
+<!-- My research lies in the intersection of computer vision,computer graphics and robotics,My  -->
+<!-- Goal is to use machine learning to enable intelligence with minimal human supervision.I study how to design 3D Learning systems which leverage genmetry,appearance,and any others.I am also broadly interested in  AVS&AVP System Application and Neural Rendering. --> -->
 
-Prior to CUMT. I was fortunate to have worked with LSU Prof [YunZhang](https://ieeexplore.ieee.org/author/37405812400). Previously obtained Ms degree Computer Science at The Kunming University of Science and Tecnnology . Before that. I received my B.Eng in Computer Science in 2019 from Hefei University. worked with AssociateProfessor [chuanwen Lin](https://ieeexplore.ieee.org/author/37088412197). 
+<!-- Prior to CUMT. I was fortunate to have worked with LSU Prof [YunZhang](https://ieeexplore.ieee.org/author/37405812400). Previously obtained Ms degree Computer Science at The Kunming University of Science and Tecnnology . Before that. I received my B.Eng in Computer Science in 2019 from Hefei University. worked with AssociateProfessor [chuanwen Lin](https://ieeexplore.ieee.org/author/37088412197).  -->
 
 
-Education
+<!-- Education
 ======
 * Ph.D. in Artificial Intelligence, SJTU&CUMT, 2022-2026(expect)
 * M.S. in Computer Science and Tecnnology, KUST, 2022
-* B.S. in Computer Science and Tecnnology, Hefei University, 2019
+* B.S. in Computer Science and Tecnnology, Hefei University, 2019 -->
 
 
 
-Work experience
+<!-- Work experience
 ======
 * Research Intern, Institute of Advance Technology ,University of Science and Technology of china, 2019
 
 
 
-[Resume](files/cv4.pdf)
+[Resume](files/cv4.pdf) -->
 
 
 
 <!-- **NEWS!** Our work "Controllable Dialogue Simulation with In-Context Learning" has been accepted to Findings of EMNLP 2022. Check out the [paper](https://arxiv.org/pdf/2210.04185.pdf) and [code](https://github.com/Leezekun/dialogic)!
 {: .notice--info}  -->
 
-Publications
+<!-- Publications
 ======
 
 [Three-dimensional human pose estimation based on spatio-temporal multi-feature fusion network](https://ui.adsabs.harvard.edu/abs/2022SPIE12301E..22Y/abstract) \
@@ -48,18 +49,18 @@ International Conference on Mechatronics and Intelligent Robotics (**ICMIR**), 2
 <!-- (<span style="color:red">Oral, Best Paper Candidate</span>) -->
 
 
-[PrR-CNN:Projectively rectified RCNN Detection via Corner Localization on Polar Region Segmention]()\
+<!-- [PrR-CNN:Projectively rectified RCNN Detection via Corner Localization on Polar Region Segmention]()\
  **Jun Ye** ,Yun Zhang \
-International Journal on Document Analysis and Recognition (**IJDAR**)(<span style="color:red">Minor revision</span>)
+International Journal on Document Analysis and Recognition (**IJDAR**)(<span style="color:red">Minor revision</span>) --> -->
 
-Conference reviewer
+<!-- Conference reviewer
 ======
 Neural Information Processing Systems (**NeurIPS**), 2024 \
-International Conference on computer vision (**ICCV**), 2023 \
+International Conference on computer vision (**ICCV**), 2023 \ -->
 
-Contact
+<!-- Contact
 ======
-Email: junye6008 AT gmail DOT com \
+Email: junye6008 AT gmail DOT com \ --> -->
 
 
 
